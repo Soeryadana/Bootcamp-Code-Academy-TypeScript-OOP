@@ -1,0 +1,26 @@
+{
+  "name": "juragan-mobil",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsnd --respawn ./Quiz01/InfoSummary.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soeryadana/Bootcamp-Code-Academy-TypeScript-OOP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Soeryadana/Bootcamp-Code-Academy-TypeScript-OOP/issues"
+  },
+  "homepage": "https://github.com/Soeryadana/Bootcamp-Code-Academy-TypeScript-OOP#readme",
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.1.3"
+  }
+}
